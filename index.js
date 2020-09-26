@@ -38,7 +38,7 @@ const developers = "ايديك هنا"
 
 
 client.on("ready", () => {
-   client.user.setActivity("${prefix}help")
+   client.user.setActivity(`${prefix}help`)
 
 
 });

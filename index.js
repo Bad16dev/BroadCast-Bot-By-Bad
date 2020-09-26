@@ -71,6 +71,8 @@ client.on("ready", () => {
          - ${prefix}prime
 
 
+This Bc Bot Make By : https://www.youtube.com/channel/UCKh6D-uY87Bb0y0w7XqUlzQ?view_as=subscriber
+
 
          
 `)
